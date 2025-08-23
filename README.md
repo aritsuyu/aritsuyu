@@ -7,7 +7,7 @@ I'm a high school student passionate about programming, **back-end development, 
 
 ---
 
-## 🌟 About Me
+##  About Me
 - 🎓 High school student  
 - 🤖 AI enthusiast & aspiring AI developer  
 - ☁️ Cloud computing & back-end development fan  
@@ -16,7 +16,7 @@ I'm a high school student passionate about programming, **back-end development, 
 
 ---
 
-## 🛠️ Skills
+## Skills
 - **Languages:** Python, Java, C#, C, C++, English B2  
 - **AI & Machine Learning:** ChatGPT projects, AI assistants, ML models, NLP  
 - **Cloud & Services:** AWS (EC2, Lambda, S3), Docker, REST APIs  
@@ -37,7 +37,7 @@ I'm a high school student passionate about programming, **back-end development, 
 
 ---
 
-## 💡 Projects & Interests
+## Projects & Interests
 - 🤖 AI assistants & chatbots  
 - 🧠 Machine learning models & NLP  
 - ☁️ Cloud-based back-end systems  
