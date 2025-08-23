@@ -1,26 +1,45 @@
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aritsuyu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aritsuyu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
+# Hello 👋
+Hi, I'm **Vitor!**  
 
-###
+I'm a high school student passionate about programming, **back-end development, AI, and cloud computing**. Currently diving deep into **artificial intelligence projects** and **software systems**.  
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
+<!-- Lies is also a form of love. The greatest one. -->
+
+---
+
+## 🌟 About Me
+- 🎓 High school student  
+- 🤖 AI enthusiast & aspiring AI developer  
+- ☁️ Cloud computing & back-end development fan  
+- 🌍 Planning to study and work in Germany in the near future  
+- 🐧 Dreaming of building my own Linux OS  
+
+---
+
+## 🛠️ Skills
+- **Languages:** Python, Java, C#, C, C++, English B2  
+- **AI & Machine Learning:** ChatGPT projects, AI assistants, ML models, NLP  
+- **Cloud & Services:** AWS (EC2, Lambda, S3), Docker, REST APIs  
+- **Systems & Hardware:** PC builds, Hackintosh setup
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
 </div>
 
 ###
+
+---
+
+## 💡 Projects & Interests
+- 🤖 AI assistants & chatbots  
+- 🧠 Machine learning models & NLP  
+- ☁️ Cloud-based back-end systems  
+
+---
